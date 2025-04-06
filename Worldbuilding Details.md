@@ -1,0 +1,13 @@
+- Theology - seeks to answer the game's central message of "how to raise a child"
+	- The Midwife-Mother is the patron deity of safe childbirth, of new beginnings, and of patient waiting at the end of literal and proverbial age. She rewards meticulous upbringing and kind deeds unspoken. 
+		- She is represented by the Doctor, whose knowledge of medicine and the Churn seems almost unnatural once the player pulls back the veil
+		- Worshipped by caretakers, those taken care of, mothers, innkeepers and others who hold passage
+	- The Boy-Lark is the patron deity of freedom, of unseen shores, of trampled fences and bastard children. He rewards acts of bravado, last-minute love, of contracts torn and conventions broken. His worship is perhaps more a normalization of what children are than what they become. In many stories, he is bowed by his mother and father; in others, he teaches them. 
+		- He is represented by the Fisherman, whose philosophy of "live and let live" he tries to impart onto our duo if given the chance
+		- Worshipped by outcasts, tricksters, rebels, and children, the destitute, scholars, scribes and the curious
+	- The Philosopher-King is the patron deity of inexorable progress, of incremental change, and of the calculated ways that life is made better. Their grasp is felt in the erecting of aqueducts, in the twinkle of the coin press, and in the administration of countless reams of law. 
+		- They are represented by the Alchemist, who sets the boundaries through which his protege lives and who tries to conquer the natural world through application of the lessons others teach him
+		- Worshipped by merchants, natural scientists, ruling folks
+	- The Gods all have individual "endings" - correlated in part with how you treat your child and their corresponding npc questlines
+	- 
+- ![[Pasted image 20250405224944.png]]

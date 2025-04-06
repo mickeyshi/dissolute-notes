@@ -1,0 +1,3 @@
+- Studying secrets of the gods
+- Could be a subversive, non canon but fleshed out type ending
+- Could be an ending where you ascend as god? Would require complete personality, all humors, child to still be around, all story events unlocked (including secret edgelord events?)

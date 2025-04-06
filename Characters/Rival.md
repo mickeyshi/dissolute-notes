@@ -1,0 +1,5 @@
+- Alchemist that shows up with their homunculus for the contests (if any) - has smug and immediate presence to inspire player to grind stats
+- Doesn't have to be developed 
+- Same alchemist could run dry of emotion in the final days if you choose not to ascend your homunculus
+	- But maybe this results in rival ascending homunculus? Maybe with flawed because she's either a good parent and takes too much care of her child or a bad parent and brings her up wrong
+- 

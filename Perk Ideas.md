@@ -1,0 +1,12 @@
+- **Somnocura** - Allows the brewing of a potion that gives you an extra timeslot at night for a day, at the cost of Mood 
+	- **Advanced Somnocura** - Gives you two timeslots, but tanks your Mood 
+- **Supracorpa** -Allows the brewing of a potion that increases your physical stats, for a time
+- **Supramentis** - Allows the brewing of a potion that returns Mood to Neutral and wards off excess status conditions 
+- **Potionomics** - Reduces time cost of brewing reagents
+- **Reconstitution** - Allows the reinjection of reagents into humans. Required for certain sidequest decisions
+- **Transmutation** - Unlocks the ability to transmute junk into gold
+- **Theory of Education** - Increases the rate at which personal tutoring increases stats. 
+- **Theory of Markets** - Decreases prices and allows you to predict price changes
+- **Preservation** - Allows materials to be gathered from hospital work at random
+- **Theology** - Allows research xp to be gathered from religious work at random
+- **Larceny** - Allows funds to be gathered from domestic work at random
